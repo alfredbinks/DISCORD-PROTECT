@@ -1,4 +1,2 @@
-# DISCORD-PROTECT-
-DISCORD PROTECT 
-
-BY GITHUB.COM/D0WZY
+# DiscordProtector
+A bot to protect your discord server against raids
